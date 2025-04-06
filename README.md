@@ -1,7 +1,7 @@
 # Global-Superstore-Sales
 ## I. Introduction
 ### 1. Introduction dataset
-- Dataset:
+- Dataset for this topic: [**Dataset**](https://drive.google.com/drive/folders/1Qo6H6D1tSZq0FDsOPBx5dNLj6TlxikNY?hl=vi)
 - Dataset stores sales information of some products of a company worldwide
 - Consists of 3 data tables:
   - Table 1: Orders - Fact order
