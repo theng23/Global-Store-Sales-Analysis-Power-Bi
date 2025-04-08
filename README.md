@@ -1,4 +1,4 @@
-# Global-Superstore-Sales
+# Global Superstore Sales - a world sales company| Power BI
 ## I. Introduction
 ### 1. Introduction dataset
 - Dataset for this topic: [**Dataset**](https://drive.google.com/drive/folders/1Qo6H6D1tSZq0FDsOPBx5dNLj6TlxikNY?hl=vi)
