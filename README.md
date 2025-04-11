@@ -1,5 +1,8 @@
 # Global Store Sales Analysis| Power BI
 ## I. Introduction
+### 2. Business Question
+- Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
+- From this report he can identify the market and come up with better strategies and products
 ### 1. Introduction dataset
 - Dataset for this topic: [**Dataset**](https://drive.google.com/drive/folders/1Qo6H6D1tSZq0FDsOPBx5dNLj6TlxikNY?hl=vi)
 - Dataset stores sales information of some products of a company worldwide
@@ -7,9 +10,7 @@
   - Table 1: Orders - Fact order
   - Table 2: People - Information of Sales person
   - Table 3: Return - Information of Return orders
-### 2. Business Question
-- Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
-- From this report he can identify the market and come up with better strategies and products
+
 ## II. Design Thinking Method
 Here are the five steps of design thinking:
 ### Step 1 - Empathize
