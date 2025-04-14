@@ -88,7 +88,9 @@ Here are the five steps of design thinking:
 ### Step 2 - Define POV
 ➡️ Find the North star metric
 
-![a60ad506-23d1-4151-94e2-3b7addfe7d5e](https://github.com/user-attachments/assets/156c5991-fdae-4d5a-90ac-d8fa1b4fa4a7)
+![20e25f10-ee44-4813-9cf0-03744ab058ba](https://github.com/user-attachments/assets/153e4406-1e0e-447c-bf51-7be6c9ef0797)
+
+
 
 ➡️ Define Point of View
 
