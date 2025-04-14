@@ -9,8 +9,8 @@
 - How can we leverage data-driven insights to enhance business performance and support market expansion?
 - Which product category is the most dominant? Which area has the product category that needs more attention?
 - Grasp the business trends of the years through growth.
-## II. Dataset
-- Dataset for this topic: [**Dataset**](https://drive.google.com/drive/folders/1Qo6H6D1tSZq0FDsOPBx5dNLj6TlxikNY?hl=vi)
+## 📂II. Dataset
+📌 Dataset for this topic: [**Dataset**](https://drive.google.com/drive/folders/1Qo6H6D1tSZq0FDsOPBx5dNLj6TlxikNY?hl=vi)
 - Dataset stores sales information of some products of a company worldwide\
 1️⃣ Consists of 3 data tables:
   - Table 1: Orders - Fact order
