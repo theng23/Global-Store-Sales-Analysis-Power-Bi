@@ -68,6 +68,9 @@
 
 </details>
 
+3️⃣ Data Relationships:
+
+
 ## 🧠III. Design Thinking Method
 Here are the five steps of design thinking:
 ### Step 1 - Empathize
