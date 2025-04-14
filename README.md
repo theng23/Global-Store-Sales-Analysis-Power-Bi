@@ -70,6 +70,9 @@
 
 3️⃣ Data Relationships:
 
+![7bff3d4c-c733-4b1a-b255-27adc9c3f0a5](https://github.com/user-attachments/assets/d017bcc2-93e4-460b-a22c-e4196357a118)
+
+
 
 ## 🧠III. Design Thinking Method
 Here are the five steps of design thinking:
