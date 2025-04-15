@@ -1,4 +1,4 @@
-# Global Store Sales Analysis| Power BI
+# 📊Global Store Sales Analysis| Power BI
 ## I. Introduction
 ### 📖 What is this project about?
 - Senior manager wants to grasp information about the company's business situation to devise a market expansion strategy and decide on strategic product selection.
