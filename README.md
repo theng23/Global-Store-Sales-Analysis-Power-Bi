@@ -78,12 +78,14 @@
 Here are the five steps of design thinking:
 ### Step 1 - Empathize
 ➡️ Applied 5W1H to define the problem
-![b85a174f-9a53-4d4a-bbb5-766493ebaa6c](https://github.com/user-attachments/assets/57a92cbd-193a-4f8d-8abd-e91983364d97)
+
+![2c836ce1-942d-49d1-acc1-630d6e522dfc](https://github.com/user-attachments/assets/c321814b-bf0a-4d06-a700-3e1d0b618de8)
+
 
 ➡️ Empathy for Stakeholders
 
-![5e3ec47a-cf66-4e96-9e22-f41e2bdbe8ba](https://github.com/user-attachments/assets/e29726b9-16ea-42e1-8e14-362477961bad)
 
+![cc62559c-9c5c-4136-919e-44d0ede79bd1](https://github.com/user-attachments/assets/6520c7c2-cd6a-4309-8f39-18a78c00ef5e)
 
 ### Step 2 - Define POV
 ➡️ Find the North star metric
