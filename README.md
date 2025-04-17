@@ -127,11 +127,18 @@ Here are the five steps of design thinking:
 
 ![5e5f3e2a-9b43-4e44-a541-a9da319ba7b1](https://github.com/user-attachments/assets/3300d7a3-c7d8-415c-b5d5-dc14906de26a)
 
-
+- Steady growth in total sales. Sales increased significantly from 2011 (1.68M) to 2014 (3.21M)
+- APAC dominates the market. Leading in both sales (2.7M) and orders (5.4K),
+- Return orders at 4.7%. Monitoring reasons for returns could help improve product quality and reduce losses.
+- 4Strong order volume increase. Orders nearly doubled from 2011 (4.4K) to 2014 (8.5K), showcasing consistent customer demand.
 ### 2. Sales
 
-![9f64c9de-881c-4e54-b81c-bafe5cc98ae6](https://github.com/user-attachments/assets/403a262c-e8aa-47f1-9707-ea454432a6d7)
+![e2940261-302f-4951-8289-66c04b5aa046](https://github.com/user-attachments/assets/313c9441-bcbb-411c-8299-d582a4e24450)
 
+- Strong revenue growth → Sales increased to 9.48M, showing continued business expansion.
+- High return order ratio (4.68%) → Addressing reasons for returns could enhance customer satisfaction and reduce losses.
+- Technology leads in sales (3.7M) → Indicates high demand; optimizing inventory and marketing for tech products could further boost revenue.
+- Top 5 seller: **Staples(91)**, **Eldon File Cart, Single Width(66)**, **Rogers File Cart, Single Width(49)**, **Smead File Cart, Single Width(49)**, **Tenex File Cart, Single Width(48)**
 
 ### 3. Analysis
 - Overview
@@ -140,14 +147,24 @@ Here are the five steps of design thinking:
 
 
 
-- Category
 **Furniture**
 
 ![e907bf1c-2cbb-4b25-ba38-4882fe3f5ade](https://github.com/user-attachments/assets/e8b1c817-f9bf-409f-933d-5b05afa61698)
 
+- Sales Growth → Increased from 0.60M (2011) to 1.09M (2014), indicating rising demand.
+- Top Markets → APAC (1.08M) leads in sales, followed by LATAM (0.64M) and EU (0.62M).
+- Customer Segments → Consumer (1.70M) dominates, while Corporate (0.99M) and Home Office (0.57M) contribute significantly.
+- Profit Margin → 6.65%, suggesting room for optimization in pricing and cost management.
+	
+
 **Office Supplies**
 
 ![789f9950-ca74-4f39-8bb6-05c48378731f](https://github.com/user-attachments/assets/64a02273-71b4-43a3-a84a-5f4bb297cbb3)
+
+- Sales Growth → Increased from 0.60M (2011) to 1.09M (2014), reflecting rising customer demand.
+- Market Leaders → APAC (1.08M) leads in sales, followed by LATAM (0.64M) and EU (0.62M).
+- Top Customer Segments → Consumers (1.70M) generate the highest revenue, with Corporate (0.99M) and Home Office (0.57M) also contributing.
+- Return Orders → 322 returns indicate a need for better customer experience and product quality improvements.
 
 **Technology**
 
