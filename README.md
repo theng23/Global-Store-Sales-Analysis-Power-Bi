@@ -171,52 +171,63 @@ Here are the five steps of design thinking:
 ![ca422dfc-4316-4338-bd42-4e3e17bb8791](https://github.com/user-attachments/assets/488c931e-ecf2-4ac6-b58c-47d81b5edbd7)
 
 
+- Sales Growth → Increased from 0.64M (2011) to 1.26M (2014), showing consistent expansion.
+- Top Markets → APAC (1.07M) leads in sales, followed by EU (0.86M) and US (0.66M).
+- Customer Segments → Consumers (1.93M) generate the highest revenue, with Corporate (1.13M) and Home Office (0.69M) also contributing.
+- Return Orders → 337 returns, with APAC (50 returns) and LATAM (21 returns) being key regions to monitor.
 
 
 
 ### 4. Trending
+**Trending of Sales**
 
 ![651402e6-d1b5-42d4-9d48-a6bf84ddfdf7](https://github.com/user-attachments/assets/abbe43ad-e9ae-4750-b392-ccd6c4c82b76)
 
+- Strong Sales Growth → Sales increased from 1.68M (2011) to 3.21M (2014), reflecting continuous business expansion.
+- APAC Leads Market Performance → With 2.7M in sales, APAC shows the highest revenue, followed by EU (2.1M) and US (1.8M).
+- Technology Category Dominates → Sales reached 1.26M in 2014, outperforming Furniture and Office Supplies.
+- Consumer Segment Drives Revenue → 1.60M in 2014, indicating strong customer engagement compared to Corporate and Home Office.
+
+
+
+**Trending of Profit**
 
 ![36b080db-ab9f-4bfc-aa67-5dbd21ac6839](https://github.com/user-attachments/assets/f0a9b834-4889-4aad-84c2-4b5ac99155f4)
 
+- Profit growth accelerated → Profit increased from 0.18M (2011) to 1.09M (2014), with the highest jump in 2013.
+- Technology outperforms other categories → Profit grew from 93K (2011) to 184K (2014), showing strong demand.
+- APAC leads market performance → Profit hit 0.33M, followed by EU (0.25M) and US (0.22M), making APAC the top contributor.
+- EMEA shows exceptional profit growth → Despite lower total profit (0.03M), its 134% growth rate suggests a high-potential emerging market.
 
+
+**Trending of Orders**
 ![c0339988-c0c8-4f85-a7f0-5be052c10651](https://github.com/user-attachments/assets/ea0f3e8d-45e3-43d5-9884-2b68c4121f66)
 
+- Strong Order Growth → Orders increased 51.69%, reaching 25K total orders, reflecting solid customer demand.
+- APAC Leads Orders Growth → APAC saw the highest order volume (5.4K orders, 53.07% growth), signaling a dominant market presence.
+- Furniture Orders Increased Steadily → Grew from 2.2K (2011) to 4.3K (2014), showing consistent demand for furniture products.
+- Consumer Segment Drives Purchases → Orders grew sharply from 2K (2011) to 4.4K (2014), confirming strong engagement among individual buyers.
 
-
+**Trending of Return Orders**
 ![26d48cc6-141a-4f55-83d6-5f31a2dc08e0](https://github.com/user-attachments/assets/a1288090-ea6a-48a9-b691-11da0f9d5a0a)
 
+- Steady Increase in Return Orders → Growth rate remained around 0.22 - 0.23 yearly, with total return orders reaching 1K.
+- Market Distribution of Returns → EU (0.543) and US (0.539) show the highest return order growth, suggesting potential service or product quality concerns.
+- Office Supplies Have the Highest Returns → 173 return orders in 2014, outpacing Furniture (116) and Technology (99), signaling possible product issues.
+- Consumer Segment Drives Most Returns → 203 returns in 2014, compared to Corporate (122) and Home Office (63), emphasizing the need for improved customer experience and retention strategies.
 
-## Recommendation & Insight
-
-### Insight 
-- Revenue and profit trends
-  - 2012 had the highest revenue (3.2M USD), but then gradually decreased in 2013 (2.6M USD) and 2014 (2.0M USD).
-  - Profit fluctuates quarterly, with peaks in Q2 2012 and Q3 2013, but a decline in Q4 2014.
-
-- Performance by market 
-  - APAC, LATAM and US have the highest number of orders.
-  - Central and North Asia are the most profitable, suggesting expansion potential. LATAM, APAC and US have the highest return order rates.
-  
-- Customer segmentation 
-  - Consumer is the largest customer group (51.59%), but also has the highest return rate (51.11%).
-  - Corporate and Home Office have lower but more stable order rates. \
-    
-- Product catalog
-  - Office Supplies has the highest number of orders, but Technology has the highest profit margin (42.06%).
-  - Furniture has the lowest profit margin (19.25%), need to consider adjustment strategy.
-  - Staples, Eldon File Cart are best-selling products. 
-- Shipping method
-  - Standard Class is the most used (~7.5K orders), while Same Day and First Class are less popular.
-  - Expedited shipping may need to be improved for high-value orders or business customers.
-
-
-### Recommendation
-* Restore revenue growth by implementing marketing and sales campaigns in low-performing quarters.
-* Expand business in Central and North Asia, because these are the two most profitable regions.
-* Reduce return rates in LATAM, APAC and US by improving quality control and after-sales service.
-* Focus on Corporate and Home Office customers to increase stable revenue, instead of just depending on Consumer.
-* Promote sales of technology products, because they have the highest profit margin (42.06%), and optimize the strategy for Furniture.
-* Improve logistics and shipping services, especially enhancing fast shipping for high-value orders.
+## Recommendation
+* Expand in High-Performing Regions → APAC, EU, and US show strong revenue growth, so further investment in targeted promotions could maximize opportunities.
+* Leverage Technology Demand → Technology consistently outperforms other categories, suggesting more inventory optimization and enhanced marketing strategies.
+* Recommendations by Category
+	- Technology
+ 		- Focus on product innovation and targeted digital marketing.
+ 		- High returns in APAC & LATAM suggest a need for better customer service and quality control measures.
+ 	- Furniture
+  		- Implement personalized recommendations and promotions to increase conversion rates.
+  		- Expand in APAC & LATAM because these rigions exhibit strong sale potential.
+  	- Office Supplies
+	  	- Office Supplies have the highest return orders, requiring product quality improvements and clearer descriptions.
+	  	- Encourage businesses to purchase in bulk through corporate packages and discounts.
+* Encourage Higher Order Values → Promising & Cannot Lose Them segments show strong potential for increased spending; cross-sell and upsell strategies can drive revenue.
+* Improve Customer First Impressions → Engaging New Customers with seamless service and personalized follow-ups can foster long-term retention.
