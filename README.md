@@ -125,17 +125,52 @@ Here are the five steps of design thinking:
 ## III. Visualization
 ### 1. Overview
 
-![Overview](https://github.com/user-attachments/assets/9ae52045-b5de-41cc-bf89-d379c68a3d62)
+![5e5f3e2a-9b43-4e44-a541-a9da319ba7b1](https://github.com/user-attachments/assets/3300d7a3-c7d8-415c-b5d5-dc14906de26a)
 
-### 2. Sale by Location
-![Sale by Location](https://github.com/user-attachments/assets/cccee9d3-64c8-4cc3-a173-c5f467595677)
 
-### 3. Sale by Customer
+### 2. Sales
 
-![Sale by Customer](https://github.com/user-attachments/assets/d94fa99f-ced7-4b49-b241-c22bc3aa7888)
+![9f64c9de-881c-4e54-b81c-bafe5cc98ae6](https://github.com/user-attachments/assets/403a262c-e8aa-47f1-9707-ea454432a6d7)
 
-### 4. Profit & Return
-![Profit   Return](https://github.com/user-attachments/assets/1fdbdd6b-8f5f-4507-9612-84769b72fa95)
+
+### 3. Analysis
+- Overview
+
+![9f64c9de-881c-4e54-b81c-bafe5cc98ae6](https://github.com/user-attachments/assets/0c90c8af-6558-4360-8d11-5dd5dfb0afcd)
+
+
+
+- Category
+**Furniture**
+
+![e907bf1c-2cbb-4b25-ba38-4882fe3f5ade](https://github.com/user-attachments/assets/e8b1c817-f9bf-409f-933d-5b05afa61698)
+
+**Office Supplies**
+
+![789f9950-ca74-4f39-8bb6-05c48378731f](https://github.com/user-attachments/assets/64a02273-71b4-43a3-a84a-5f4bb297cbb3)
+
+**Technology**
+
+![ca422dfc-4316-4338-bd42-4e3e17bb8791](https://github.com/user-attachments/assets/488c931e-ecf2-4ac6-b58c-47d81b5edbd7)
+
+
+
+
+
+### 4. Trending
+
+![651402e6-d1b5-42d4-9d48-a6bf84ddfdf7](https://github.com/user-attachments/assets/abbe43ad-e9ae-4750-b392-ccd6c4c82b76)
+
+
+![36b080db-ab9f-4bfc-aa67-5dbd21ac6839](https://github.com/user-attachments/assets/f0a9b834-4889-4aad-84c2-4b5ac99155f4)
+
+
+![c0339988-c0c8-4f85-a7f0-5be052c10651](https://github.com/user-attachments/assets/ea0f3e8d-45e3-43d5-9884-2b68c4121f66)
+
+
+
+![26d48cc6-141a-4f55-83d6-5f31a2dc08e0](https://github.com/user-attachments/assets/a1288090-ea6a-48a9-b691-11da0f9d5a0a)
+
 
 ## Recommendation & Insight
 
