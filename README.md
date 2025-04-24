@@ -209,7 +209,9 @@ Here are the five steps of design thinking:
 - Consumer Segment Drives Purchases → Orders grew sharply from 2K (2011) to 4.4K (2014), confirming strong engagement among individual buyers.
 
 **Trending of Return Orders**
-![26d48cc6-141a-4f55-83d6-5f31a2dc08e0](https://github.com/user-attachments/assets/a1288090-ea6a-48a9-b691-11da0f9d5a0a)
+
+![b4f723a1-003e-4318-a747-0382ca00f469](https://github.com/user-attachments/assets/bd2415aa-2174-469a-9a2b-35be7810a78a)
+
 
 - Steady Increase in Return Orders → Growth rate remained around 0.22 - 0.23 yearly, with total return orders reaching 1K.
 - Market Distribution of Returns → EU (0.543) and US (0.539) show the highest return order growth, suggesting potential service or product quality concerns.
